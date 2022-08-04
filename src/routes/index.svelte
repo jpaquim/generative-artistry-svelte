@@ -23,4 +23,7 @@
 	<li>
 		<a href="/07-hypnotic-squares">Hypnotic Squares</a>
 	</li>
+	<li>
+		<a href="/08-piet-mondrian">Piet Mondrian</a>
+	</li>
 </ol>
