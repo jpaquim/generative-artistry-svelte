@@ -5,4 +5,7 @@
 	<li>
 		<a href="/01-tiled-lines">Tiled Lines</a>
 	</li>
+	<li>
+		<a href="/02-joy-division">Joy Division</a>
+	</li>
 </ol>
