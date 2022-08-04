@@ -8,4 +8,7 @@
 	<li>
 		<a href="/02-joy-division">Joy Division</a>
 	</li>
+	<li>
+		<a href="/03-cubic-disarray">Cubic Disarray</a>
+	</li>
 </ol>
