@@ -11,4 +11,7 @@
 	<li>
 		<a href="/03-cubic-disarray">Cubic Disarray</a>
 	</li>
+	<li>
+		<a href="/04-triangular-mesh">Triangular Mesh</a>
+	</li>
 </ol>
