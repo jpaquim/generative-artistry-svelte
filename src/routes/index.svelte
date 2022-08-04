@@ -20,4 +20,7 @@
 	<li>
 		<a href="/06-circle-packing">Circle Packing</a>
 	</li>
+	<li>
+		<a href="/07-hypnotic-squares">Hypnotic Squares</a>
+	</li>
 </ol>
