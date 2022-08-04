@@ -26,4 +26,7 @@
 	<li>
 		<a href="/08-piet-mondrian">Piet Mondrian</a>
 	</li>
+	<li>
+		<a href="/09-hours-of-dark">Hours of Dark</a>
+	</li>
 </ol>
