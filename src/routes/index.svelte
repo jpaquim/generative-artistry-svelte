@@ -17,4 +17,7 @@
 	<li>
 		<a href="/05-un-deux-trois">Un Deux Trois</a>
 	</li>
+	<li>
+		<a href="/06-circle-packing">Circle Packing</a>
+	</li>
 </ol>
